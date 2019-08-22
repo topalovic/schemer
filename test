@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cat *.scm | scheme --silent && \
+  echo "All tests passed! Now go make yourself a peanut butter and jelly sandwich."
