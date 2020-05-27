@@ -1,6 +1,6 @@
 # Schemer
 
-Examples from ["The Little Schemer"](http://www.ccs.neu.edu/home/matthias/BTLS/) with assertions and no added sugar.
+Examples from ["The Little Schemer"](https://felleisen.org/matthias/BTLS-index.html) with assertions and no added sugar.
 
 To play with the code, you'll need [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/):
 
