@@ -125,4 +125,4 @@
    '(a b c d e)) 5)
  "does your hat still fit?")
 
-;; a nice concise tutorial on deriving Y: https://ebzzry.io/en/y/
+;; a nice concise tutorial on deriving Y: https://ebzzry.com/en/y/
